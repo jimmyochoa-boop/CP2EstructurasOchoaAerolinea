@@ -1,6 +1,6 @@
 # CP2EstructurasOchoaAerolinea
 
-python -m venv venv
-venv\Scripts\activate
-pip install flask
-python app.py
+- python -m venv venv
+- venv\Scripts\activate
+- pip install flask
+- python app.py
